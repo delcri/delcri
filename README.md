@@ -51,7 +51,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🤖 [**POCHITA — Quadruped Sensor Network**](https://github.com/delcri/Robot_quadruped_sensor_network) | Distributed sensor network for a quadruped robot. CAN Bus comms, LiDAR, IMU, GPS + YOLOv5 perception | ROS2 · CAN Bus · YOLOv5 · Python |
+| 🤖 [**Quadruped —  Sensor Network**](https://github.com/delcri/Robot_quadruped_sensor_network) | Distributed sensor network for a quadruped robot. CAN Bus comms, LiDAR, IMU, GPS + YOLOv5 perception | ROS2 · CAN Bus · YOLOv5 · Python |
 | 🌿 [**Coffee Leaf Disease Detection**](https://github.com/delcri/coffee-leaf-disease-detection) | AI-powered detection of diseases in coffee plant leaves using deep learning & computer vision | Python · CV · Deep Learning |
 | 🚗 [**Autonomous Rover**](https://github.com/delcri/rover) | Autonomous ground vehicle with navigation and obstacle avoidance | Python · ROS · Navigation |
 | 📡 [**Centauri**](https://github.com/delcri/Centauri_py) | Robot communication framework for distributed robotic architectures | Python · Distributed Systems |

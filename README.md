@@ -13,7 +13,7 @@
 - 🤖 Building autonomous systems: mobile robots, legged robots, vision pipelines
 - 🔬 Working hands-on with **SLAM, Visual Odometry, Nav2 & sensor fusion** on real hardware
 - 🌱 Currently working on several projects *(some still private — stay tuned!)*
-- 💬 Languages: Spanish 🇪🇸 (native) | English 🇬🇧 (C1) | German 🇩🇪 (A1)
+- 💬 Languages: Spanish 🇪🇸 (native) | English 🇬🇧 (B1) | German 🇩🇪 (A1)
 - 🔭 Always learning something new
 
 ---

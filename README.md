@@ -12,7 +12,7 @@
 - 🎓 Mechatronics Engineer @ **Universidad Autónoma de Occidente**
 - 🤖 Building autonomous systems: legged robots, rovers, vision pipelines
 - 🌱 Currently working on several projects *(some still private — stay tuned!)*
-- 💬 Languages: Spanish 🇪🇸 (native) | English 🇬🇧 (C1) | German 🇩🇪 (A1)
+- 💬 Languages: Spanish 🇪🇸 (native) | English 🇬🇧 (C1) | German 🇩🇪 (A2)
 - 🔭 Always learning something new
 
 ---
@@ -55,7 +55,6 @@
 | 🌿 [**Coffee Leaf Disease Detection**](https://github.com/delcri/coffee-leaf-disease-detection) | AI-powered detection of diseases in coffee plant leaves using deep learning & computer vision | Python · CV · Deep Learning |
 | 🚗 [**Autonomous Rover**](https://github.com/delcri/rover) | Autonomous ground vehicle with navigation and obstacle avoidance | Python · ROS · Navigation |
 | 📡 [**Centauri**](https://github.com/delcri/Centauri_py) | Robot communication framework for distributed robotic architectures | Python · Distributed Systems |
-| 🔒 **[More coming soon...]** | Currently working on new projects *(private for now — stay tuned!)* | ROS2 · AI · Hardware |
 
 ---
 

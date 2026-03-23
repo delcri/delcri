@@ -12,7 +12,7 @@
 - 🎓 Mechatronics Engineer @ **Universidad Autónoma de Occidente**
 - 🤖 Building autonomous systems: legged robots, rovers, vision pipelines
 - 🌱 Currently working on several projects *(some still private — stay tuned!)*
-- 💬 Languages: Spanish 🇪🇸 (native) | English 🇬🇧 (C1) | German 🇩🇪 (A2)
+- 💬 Languages: Spanish 🇪🇸 (native) | English 🇬🇧 (C1) | German 🇩🇪 (A1)
 - 🔭 Always learning something new
 
 ---
@@ -51,7 +51,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🤖 [**Quadruped —  Sensor Network**](https://github.com/delcri/Robot_quadruped_sensor_network) | Distributed sensor network for a quadruped robot. CAN Bus comms, LiDAR, IMU, GPS + YOLOv5 perception | ROS2 · CAN Bus · YOLOv5 · Python |
+| 🤖 [**POCHITA — Quadruped Sensor Network**](https://github.com/delcri/Robot_quadruped_sensor_network) | Distributed sensor network for a quadruped robot. CAN Bus comms, LiDAR, IMU, GPS + YOLOv5 perception | ROS2 · CAN Bus · YOLOv5 · Python |
 | 🌿 [**Coffee Leaf Disease Detection**](https://github.com/delcri/coffee-leaf-disease-detection) | AI-powered detection of diseases in coffee plant leaves using deep learning & computer vision | Python · CV · Deep Learning |
 | 🚗 [**Autonomous Rover**](https://github.com/delcri/rover) | Autonomous ground vehicle with navigation and obstacle avoidance | Python · ROS · Navigation |
 | 📡 [**Centauri**](https://github.com/delcri/Centauri_py) | Robot communication framework for distributed robotic architectures | Python · Distributed Systems |
@@ -63,14 +63,15 @@
 
 <div align="center">
 
-![Anderson's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=delcri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=delcri&layout=compact&langs_count=8&theme=algolia)
+![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=delcri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delcri&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=delcri&theme=material-palenight)](https://github.com/delcri)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=delcri&theme=material-palenight&count_private=true)](https://github.com/delcri)
 
 </div>
 

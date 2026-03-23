@@ -12,7 +12,7 @@
 - 🎓 Mechatronics Engineer @ **Universidad Autónoma de Occidente**
 - 🤖 Building autonomous systems: legged robots, rovers, vision pipelines
 - 🌱 Currently working on several projects *(some still private — stay tuned!)*
-- 💬 Languages: Spanish 🇪🇸 (native) | English 🇬🇧 (C1) | German 🇩🇪 (A1)
+- 💬 Languages: Spanish 🇪🇸 (native) | English 🇬🇧 (C1) | German 🇩🇪 (A2)
 - 🔭 Always learning something new
 
 ---

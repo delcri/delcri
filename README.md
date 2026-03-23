@@ -33,7 +33,7 @@
 [![EKF](https://img.shields.io/badge/EKF_(robot__localization)-4B8BBE?style=flat&logoColor=white)](https://github.com/delcri)
 [![Visual Odometry](https://img.shields.io/badge/Visual_Odometry-7B2FBE?style=flat&logoColor=white)](https://github.com/delcri)
 [![Wheel Odometry](https://img.shields.io/badge/Wheel_Odometry-7B2FBE?style=flat&logoColor=white)](https://github.com/delcri)
-[![IMU](https://img.shields.io/badge/IMU_(BNO055)-00E5A0?style=flat&logoColor=white)](https://github.com/delcri)
+[![IMU](https://img.shields.io/badge/IMU-00E5A0?style=flat&logoColor=white)](https://github.com/delcri)
 [![LiDAR](https://img.shields.io/badge/LiDAR-00E5A0?style=flat&logoColor=white)](https://github.com/delcri)
 
 #### Perception & Computer Vision
@@ -51,7 +51,7 @@
 [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)](https://github.com/delcri)
 
 #### Hardware & Platforms
-[![Jetson AGX Orin](https://img.shields.io/badge/Jetson_AGX_Orin-76B900?style=flat&logo=nvidia&logoColor=white)](https://github.com/delcri)
+[![Jetson AGX](https://img.shields.io/badge/Jetson_AGX_Orin-76B900?style=flat&logo=nvidia&logoColor=white)](https://github.com/delcri)
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)](https://github.com/delcri)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)](https://github.com/delcri)
 
@@ -61,7 +61,6 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://github.com/delcri)
 [![Gazebo](https://img.shields.io/badge/Gazebo_Ignition-F58113?style=flat&logoColor=white)](https://github.com/delcri)
 [![PlotJuggler](https://img.shields.io/badge/PlotJuggler-223140?style=flat&logoColor=white)](https://github.com/delcri)
-[![Foxglove](https://img.shields.io/badge/Foxglove-9B59B6?style=flat&logoColor=white)](https://github.com/delcri)
 
 ---
 
@@ -69,11 +68,10 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🤖 [**POCHITA — Quadruped Sensor Network**](https://github.com/delcri/Robot_quadruped_sensor_network) | Distributed sensor network for a quadruped robot. CAN Bus comms, LiDAR, IMU, GPS + YOLOv5 perception | ROS2 · CAN Bus · YOLOv5 · Python |
+| 🤖 [**Quadruped —  Sensor Network**](https://github.com/delcri/Robot_quadruped_sensor_network) | Distributed sensor network for a quadruped robot. CAN Bus comms, LiDAR, IMU, GPS + YOLOv5 perception | ROS2 · CAN Bus · YOLOv5 · Python |
 | 🌿 [**Coffee Leaf Disease Detection**](https://github.com/delcri/coffee-leaf-disease-detection) | AI-powered detection of diseases in coffee plant leaves using deep learning & computer vision | Python · CV · Deep Learning |
 | 🚗 [**Autonomous Rover**](https://github.com/delcri/rover) | Autonomous ground vehicle with navigation and obstacle avoidance | Python · ROS · Navigation |
 | 📡 [**Centauri**](https://github.com/delcri/Centauri_py) | Robot communication framework for distributed robotic architectures | Python · Distributed Systems |
-| 🔒 **[More coming soon...]** | Currently working on new projects *(private for now — stay tuned!)* | ROS2 · AI · Hardware |
 
 ---
 

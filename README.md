@@ -92,12 +92,6 @@
 
 ---
 
-## 📈 Recent Activity
-
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=delcri&theme=tokyo-night&area=true)
-
----
-
 <div align="center">
 
 [![snake gif](https://github.com/delcri/delcri/raw/output/github-snake-dark.svg)](https://github.com/delcri/delcri/blob/output/github-snake-dark.svg)
